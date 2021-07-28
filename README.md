@@ -245,4 +245,6 @@ Exclui um branch local independente de *merge* ou não.
 
 - [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
+- [Tutorial simples de pull request](https://github.com/2504Guimaraes/Teste-Pull-Request)
+
 - [Deleting a local and a remote branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
